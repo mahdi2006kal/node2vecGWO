@@ -6,12 +6,9 @@ To ensure the reproducibility of our results, we provide detailed instructions a
    - Install Python 3.8 or higher.
    - Install the following Python libraries:
      - numpy (version 1.21.0)
-     - networkx (version 2.5)
+     - networkx (version 2.5),pandas,gensim
      - matplotlib (version 3.4.2)
      - scikit-learn (version 0.24.2)
--     Pandas   
--      Gensim 
-
 pip install numpy pandas matplotlib networkx gensim scikit-learn
    - Ensure the system supports multiprocessing for computationally intensive tasks.
 2. Data Preparation:
