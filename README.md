@@ -23,3 +23,16 @@ pip install numpy pandas matplotlib networkx gensim scikit-learn
    - Results, including modularity, average distance, accuracy, and F1 score, are saved in the `results/` directory. Graphical outputs are saved as `.png` files for visualization.
 By following these steps, researchers can replicate our experiments and validate the results presented in this study.
 
+Cite this article
+Rabiei, M., Fartash, M. & Nazari, S. Correction: A hybrid optimization approach for graph embedding: leveraging Node2Vec and grey wolf optimization. J Supercomput 81, 650 (2025). https://doi.org/10.1007/s11227-025-07168-z
+
+Download citation
+
+Published
+24 March 2025
+
+DOI
+https://doi.org/10.1007/s11227-025-07168-z
+
+Share this article
+
